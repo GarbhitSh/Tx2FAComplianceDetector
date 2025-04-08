@@ -31,7 +31,7 @@ This detector helps teams enforce secure transaction flows, especially for walle
 * Decodes tx.data to check for presence of 2FA-related keywords
 * Flags any transaction that lacks proper metadata
 * Emits an alert via Venn/Forta APIs
-
+![Alt text]([https://example.com/image.png](https://github.com/GarbhitSh/Tx2FAComplianceDetector/blob/main/autoD.png))
 ## File Structure
 * /src/detectors/Tx2FAComplianceDetector.ts
 * /tests/Tx2FAComplianceDetector.test.ts
